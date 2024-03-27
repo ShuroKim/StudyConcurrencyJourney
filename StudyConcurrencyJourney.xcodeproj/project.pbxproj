@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA2E3AAF2BB3AB840088BC07 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2E3AAE2BB3AB840088BC07 /* ErrorView.swift */; };
+		CA2E3AB12BB3B7CC0088BC07 /* CityBusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2E3AB02BB3B7CC0088BC07 /* CityBusView.swift */; };
 		CA34159F2BB2C0A000EAA5FC /* StudyConcurrencyJourneyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA34159E2BB2C0A000EAA5FC /* StudyConcurrencyJourneyApp.swift */; };
 		CA3415A12BB2C0A000EAA5FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3415A02BB2C0A000EAA5FC /* ContentView.swift */; };
 		CA3415A32BB2C0A100EAA5FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA3415A22BB2C0A100EAA5FC /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		CA2E3AAE2BB3AB840088BC07 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
+		CA2E3AB02BB3B7CC0088BC07 /* CityBusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityBusView.swift; sourceTree = "<group>"; };
 		CA34159B2BB2C0A000EAA5FC /* StudyConcurrencyJourney.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyConcurrencyJourney.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA34159E2BB2C0A000EAA5FC /* StudyConcurrencyJourneyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyConcurrencyJourneyApp.swift; sourceTree = "<group>"; };
 		CA3415A02BB2C0A000EAA5FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CA34159E2BB2C0A000EAA5FC /* StudyConcurrencyJourneyApp.swift */,
 				CA3415A02BB2C0A000EAA5FC /* ContentView.swift */,
 				CA3415AC2BB2C0C000EAA5FC /* BusView.swift */,
+				CA2E3AB02BB3B7CC0088BC07 /* CityBusView.swift */,
 				CA2E3AAE2BB3AB840088BC07 /* ErrorView.swift */,
 				CA3415A22BB2C0A100EAA5FC /* Assets.xcassets */,
 				CA3415A42BB2C0A100EAA5FC /* Preview Content */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA2E3AB12BB3B7CC0088BC07 /* CityBusView.swift in Sources */,
 				CA3415AD2BB2C0C000EAA5FC /* BusView.swift in Sources */,
 				CA3415A12BB2C0A000EAA5FC /* ContentView.swift in Sources */,
 				CA34159F2BB2C0A000EAA5FC /* StudyConcurrencyJourneyApp.swift in Sources */,
